@@ -1,0 +1,10 @@
+{
+    "name"    : "webapps-jquery-dragsort-lib", 
+    "version" : "0.1.0",
+    "classes" : ["JQueryDragSort"],
+    "static"  : ["jquery-dragsort"],
+    "deps"    : [
+        "webapps-framework-lib",
+	"webapps-jquery-lib"
+    ]
+}
